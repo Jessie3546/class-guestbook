@@ -1,13 +1,13 @@
-# Student Name
+# Sasha Adams
 
-**Program:** (e.g., Computer Science, Data Science)  
+**Program:** Natural Resources and Environmental Sciences, Minor in GGIS  
 
-**Year:** (e.g., Sophomore)
+**Year:** Senior
 
 ## Why I'm Learning Git
 
-(1-2 sentences)
+I'm learning Git because it is useful for collaboration and could be useful in my future career.
 
 ## One Thing I Want to Build
 
-(1-2 sentences)
+I want to build a program that tracks carbon emissions at the University of Illinois Urbana-Champaign.
