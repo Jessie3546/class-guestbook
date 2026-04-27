@@ -6,7 +6,7 @@
 
 ## Why I'm Learning Git
 
-I'm learning Git because it is an important skill for collaboration and could be useful in my future career.
+I'm learning Git because it is useful for collaboration, an important skill, and could be useful in my future career.
 
 ## One Thing I Want to Build
 
